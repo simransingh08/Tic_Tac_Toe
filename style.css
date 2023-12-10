@@ -45,3 +45,23 @@ body{
     border-radius: 10px;
     border: none;
 }
+
+#new_Btn{
+    padding: 1rem;
+    font-size: 1.5rems;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+}
+
+#msg{
+    margin: 10px;
+    color: white;
+    font-size: 30px;
+    height: 26px;
+}
+
+.msg_container{
+    height: 10vmin;
+}
