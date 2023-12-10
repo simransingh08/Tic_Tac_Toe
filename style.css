@@ -4,7 +4,7 @@
 }
 
 body{
-    background-color: #FF7676;
+    background-color: #f0abfc;
     text-align: center;
 }
 
@@ -30,7 +30,7 @@ body{
     padding: 15px;
     height: 18vmin;
     width: 18vmin;
-    background-color: #FFCD4B;
+    background-color: #bbf7d0;
     border-radius: 1rem;
     border: none;
     box-shadow: 0 0 1rem rgba(1, 1, 122,0.7);
